@@ -54,7 +54,7 @@ This guide will assist you in setting up a Ptclcoin Masternode on a Linux Server
 ##### 2. Send Collateral amount of Ptclcoin to copied address
 
 ##### 3. Open console Get MN output and set masternode configuration file and save it
-- ```mn1 VPS_IP:53080 masternode_genkey masternode_output output_index```:
+- ```mn1 VPS_IP:51060 masternode_genkey masternode_output output_index```:
 
 ##### 4. Wait at least 15 confirmation of transaction
 
